@@ -52,6 +52,6 @@ models:
       # but this is an illustration how you would apply a group to a folder
       +group: sales
 
-data_tests:
+tests:
   answers:
     +severity: warn
